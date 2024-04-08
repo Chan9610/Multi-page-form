@@ -1,0 +1,10 @@
+.inactive{
+    display: none;
+}
+
+.form-group{
+    display:none ;
+}
+.form-group-active{
+    display: block;
+}
